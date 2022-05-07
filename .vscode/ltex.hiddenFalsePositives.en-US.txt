@@ -1,0 +1,2 @@
+{"rule":"GITHUB","sentence":"^\\Qjustland/.github\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjustland/.github\\E$"}
