@@ -25,6 +25,9 @@ jobs:
       - name: Verify
         run: yarn verify
 
+      - name: Cat coverage file
+        run: cat packages/just-func/coverage/clover.xml
+
       - name: codecov
         uses: codecov/codecov-action@v3
         with:
